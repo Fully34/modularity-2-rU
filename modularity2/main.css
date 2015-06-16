@@ -97,3 +97,33 @@ a.button:hover {
     color: purple;
 }
 
+
+/*===========================================================================*/
+                        /* ~~~ EXERCISE 11 ~~~ */ 
+/*===========================================================================*/
+
+.pad-that-shit-small {
+    padding: 5px;
+    text-align: center;
+    margin: 3px;
+}
+
+.bye-text-deco {
+    text-decoration: none;
+}
+
+.make-me-salmon {
+    color: #ed828a;
+}
+
+.underline-salmon {
+    border-bottom: 3px solid #ed828a;
+}
+
+.we-are-here {
+    color: #cccccc;
+}
+
+.underline-here {
+    border-bottom: 3px solid #cccccc;
+}
