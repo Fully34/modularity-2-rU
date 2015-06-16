@@ -47,3 +47,49 @@
 .align-left {
     text-align: left;
 }
+
+
+/* EXERCISE 8 USED STYLES FROM PREVIOUS */
+
+/*===========================================================================*/
+                        /* ~~~ EXERCISE 9 ~~~ */ 
+/*===========================================================================*/
+
+.button {
+    display: inline-block;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    background-color: #ed828a;
+    border: 1px solid #ed828a;
+}
+
+/*
+.button {
+  font: bold 11px Arial;
+  text-decoration: none;
+  background-color: #EEEEEE;
+  color: #333333;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+}
+*/
+.big-button {
+    font-size: 28px;
+    padding: 15px 25px;
+    vertical-align: middle;
+}
+
+.medium-button {
+    font-size: 15px;
+    padding: 10px 20px;
+}
+
+.small-button {
+    font-size: 8px;
+    font-weight: bold;
+    padding: 5px;
+}
