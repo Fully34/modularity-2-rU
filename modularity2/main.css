@@ -146,12 +146,50 @@ a.button:hover {
     overflow: hidden;
 }
 
-.clear-left {
-    clear: left;
+
+/*===========================================================================*/
+                        /* ~~~ EXERCISE 13 ~~~ */ 
+/*===========================================================================*/
+
+.tab li {
+    padding: 5px 10px;
+    border-top: 1px solid #a7aadf;
+    border-right: 1px solid #a7aadf;
+    border-left: 1px solid #a7aadf;
+    border-bottom: 1px solid white;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    float: left;
+    list-style-type: none;
+    margin-right: 5px;
+    position: relative;
+    top: 1px;
+}
+
+.tab a {
+    color: #003ff5;
+    text-decoration: none;
 }
 
 
+.tab-container {
+    position: relative;
+    border: 1px solid #a7aadf;
+    padding: 15px;
+    border-radius: 5px;
+    clear: left;
+    bottom: 1px;
+}
 
+.tab-text-dec {
+    text-decoration: none;
+}
 
+#selected {
+    background-color: white;
+    position: relative;
+    border-bottom: 2px solid white;
+    z-index: 10;
+}
 
 
