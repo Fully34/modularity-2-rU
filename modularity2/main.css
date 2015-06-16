@@ -127,3 +127,31 @@ a.button:hover {
 .underline-here {
     border-bottom: 3px solid #cccccc;
 }
+
+
+/*===========================================================================*/
+                        /* ~~~ EXERCISE 12 ~~~ */ 
+/*===========================================================================*/
+
+.avatar {
+    float: left;
+    margin-right: 10px
+}
+
+.sub-avatar {
+    margin-left: 70px;
+}
+
+.overflow {
+    overflow: hidden;
+}
+
+.clear-left {
+    clear: left;
+}
+
+
+
+
+
+
